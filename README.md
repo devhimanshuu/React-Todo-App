@@ -15,8 +15,8 @@ A simple todo application built using React. Users can add new tasks, mark tasks
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/react-todo-app.git`
-2. Navigate to the project directory: `cd react-todo-app`
+1. Clone the repository: `git clone https://github.com/devhimanshuu/React-Todo-App.git`
+2. Navigate to the project directory: `cd React-Todo-App`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 

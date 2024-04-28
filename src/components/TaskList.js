@@ -64,7 +64,8 @@ function TaskList() {
         updateTodo={updateTodo}
       />{" "}
       {/* Todo component to display and manage todos */}
-      <p>Made by Himanshu Gupta</p> {/* Credit for the creator */}
+      <p style={{ color: "white" }}>Made by Himanshu Gupta</p>{" "}
+      {/* Credit for the creator */}
     </>
   );
 }
